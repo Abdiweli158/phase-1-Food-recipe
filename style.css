@@ -1,0 +1,51 @@
+
+body, h1, h2, p, div {
+  margin: 0;
+  padding: 0;
+}
+body {
+ background-image: url("https://media.istockphoto.com/id/1149396396/photo/man-holding-kebabs-on-skewers.jpg?s=1024x1024&w=is&k=20&c=APzRMpk8ih5obDNRskwu-7tZ5x1FC4IW4tet5Hc88Z8=");
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+}
+
+
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1em 0;
+}
+
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+}
+#recipe-list {
+  display: grid;
+  gap: 20px;
+}
+
+
+.recipe-item {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.recipe-item h2 {
+  color: #333;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+
+.recipe-item p {
+  color: #666;
+  font-size: 1em;
+}

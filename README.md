@@ -1,1 +1,1 @@
-# Receipt-Generator
+# Food Product
