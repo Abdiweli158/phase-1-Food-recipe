@@ -30,8 +30,8 @@ main {
 
 
 .recipe-item {
-  background-color: #fff;
-  border: 1px solid #ddd;
+  background-color: #f3f7f6e5;
+  border: 1px solid #ee3030;
   padding: 15px;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -39,7 +39,7 @@ main {
 
 
 .recipe-item h2 {
-  color: #333;
+  color: #f51010;
   font-size: 1.5em;
   margin-bottom: 10px;
 }
