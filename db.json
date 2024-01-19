@@ -1,1 +1,19 @@
-{}
+{
+    "meals": [
+      {
+        "idMeal": "1",
+        "strMeal": "Spaghetti Bolognese",
+        "strCategory": "Pasta",
+        "strInstructions": "Cook spaghetti and prepare Bolognese sauce. Mix and serve.",
+        "strMealThumb": "https://example.com/spaghetti.jpg"
+      },
+      {
+        "idMeal": "2",
+        "strMeal": "Chicken Curry",
+        "strCategory": "Curry",
+        "strInstructions": "Cook chicken and curry sauce. Simmer and serve.",
+        "strMealThumb": "https://example.com/chicken_curry.jpg"
+      }
+      
+    ]
+  }
